@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://rafaelschweder.visualstudio.com/ContosoAir/_apis/build/status/rafaelschweder.ContosoAir?branchName=master)](https://rafaelschweder.visualstudio.com/ContosoAir/_build/latest?definitionId=7&branchName=master)
 
 # Microsoft.Github CI Demo
 
